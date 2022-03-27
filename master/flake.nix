@@ -11,6 +11,7 @@
   inputs.src-clr-master.ref   = "refs/heads/master";
   inputs.src-clr-master.owner = "Calinou";
   inputs.src-clr-master.repo  = "clr";
+  inputs.src-clr-master.dir   = "";
   inputs.src-clr-master.type  = "github";
   
   inputs."chroma".owner = "nim-nix-pkgs";
