@@ -11,7 +11,6 @@
   inputs.src-clr-v1_0_0.ref   = "refs/tags/v1.0.0";
   inputs.src-clr-v1_0_0.owner = "Calinou";
   inputs.src-clr-v1_0_0.repo  = "clr";
-  inputs.src-clr-v1_0_0.dir   = "";
   inputs.src-clr-v1_0_0.type  = "github";
   
   inputs."chroma".owner = "nim-nix-pkgs";
