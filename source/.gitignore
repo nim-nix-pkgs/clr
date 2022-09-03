@@ -1,6 +1,0 @@
-# Compiled executables
-clr
-clr*.exe
-
-# Build cache
-nimcache/
